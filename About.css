@@ -1,0 +1,27 @@
+.btn{
+    font-size: 23px;
+    font-weight: bold;
+    color: #0B5EDB;
+    height: 48px;
+    width: 189px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    box-shadow: 4px 4px 2px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.btn:hover{
+    background-color: #0B5EDB;
+    color: white;
+}
+.par{
+text-align: justify;
+}
+.img{
+    border-radius: 50px;
+    max-width: 100%;
+	height: auto;
+}

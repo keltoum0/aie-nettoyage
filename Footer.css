@@ -1,0 +1,11 @@
+.main-footer {
+    color: white;
+    background-color: #0B5EDB;
+    padding-top: 2em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    border-top-left-radius: 115px;
+    border-top-right-radius: 115px;
+
+  }
